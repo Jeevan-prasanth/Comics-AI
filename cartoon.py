@@ -14,7 +14,7 @@ from PIL import Image
 # ==========================================================================================
 
 # Clarifai configuration
-PAT = 'a15d1d4c51754807b874c48b83c92693'
+PAT = ''
 USER_ID = 'openai'
 APP_ID = 'chat-completion'
 MODEL_ID = 'GPT-4'
